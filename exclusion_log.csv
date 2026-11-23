@@ -1,0 +1,17 @@
+Ticker,No data,Incomplete history,Non-positive price,Volume error
+APP,False,True,False,False
+CEG,False,True,False,False
+COIN,False,True,False,False
+EXE,False,True,False,False
+FDXF,True,False,False,False
+GEHC,False,True,False,False
+GEV,False,True,False,False
+HONA,True,False,False,False
+HOOD,False,True,False,False
+Q,True,False,False,False
+RDDT,False,True,False,False
+SNDK,True,False,False,False
+SOLV,False,True,False,False
+SW,False,False,False,True
+VLTO,False,True,False,False
+VYLR,True,False,False,False
